@@ -18,7 +18,7 @@ public class HelloServlet extends HttpServlet {
             throws ServletException, IOException {
 
         // Business Logic
-        UserModel model = new UserModel();
+        UserModel model = new UserModel()
         User user = model.getUser();
 
 //        user.setId("1111");
