@@ -2,7 +2,7 @@ For APIss
 
 # Run test
 ```
-$mvnw clean test
+$mvnw clean testtttt
 ```
 
 # Create WAR file
